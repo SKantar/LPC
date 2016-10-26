@@ -11,3 +11,4 @@ Tool for LPC Calibration depending on:
 
 ## Steps 
 * Recorder 20 wav files (https://en.wikipedia.org/wiki/WAV)
+  * simular words spoken by femail and mail user 
