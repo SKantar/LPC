@@ -4,3 +4,10 @@ Linear predictive coding (LPC) is a tool used mostly in audio signal processing 
 Tool for LPC Calibration depending on:
 * Width of LPC window
 * Width of LPC feature vector
+
+## Tools
+* Programming Language C (https://en.wikipedia.org/wiki/C_(programming_language))
+* Code::Blocks IDE (http://www.codeblocks.org/)
+
+## Steps 
+* Recorder 20 wav files (https://en.wikipedia.org/wiki/WAV)
