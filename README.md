@@ -13,3 +13,5 @@ Tool for LPC Calibration depending on:
 * Recorder 20 wav files (https://en.wikipedia.org/wiki/WAV)
   * simular words spoken by femail and mail user
 * Displayed euclidian distance for vectors maked with diferent arguments (same words)
+## Results
+The Results displayed at https://github.com/SKantar/LPC/blob/master/domaci2.xlsx
